@@ -1,3 +1,3 @@
 function e
-  ~/bin/editor.sh $argv
+  command $EDITOR $argv
 end
